@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
