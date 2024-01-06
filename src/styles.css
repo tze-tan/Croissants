@@ -4,9 +4,9 @@ body {
 }
 
 .links {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 40px;
-  margin-left: 400px;
-  margin-right: 400px;
+  text-align: center;
+}
+
+.links a {
+  margin: 10px 20px;
 }
